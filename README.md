@@ -10,10 +10,22 @@ So this is just practice. Basically were creating a website thatll allow us to p
 
 ## Technologies used 
 
+Javascript
+
+HTML
+
+CSS
+
 ## Learning points 
 
+I learned how to present data from a server side API to a user. 
+
 ## Problems faced 
+
+My biggest challenge was accessing the data in the data and starting off the project. 
 
 ## Credit
 
 ## Author
+
+Daniel Pablo
