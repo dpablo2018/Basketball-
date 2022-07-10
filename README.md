@@ -1,9 +1,19 @@
 # Deployed link Here
 
-# Basketball website 
+# Description
 
-# Description 
+So this is just practice. Basically were creating a website thatll allow us to pull basketball stats from a server side api and present it to the user. 
 
-## Deez 
+## User Story
 
-## Deez part II
+## Installation 
+
+## Technologies used 
+
+## Learning points 
+
+## Problems faced 
+
+## Credit
+
+## Author
