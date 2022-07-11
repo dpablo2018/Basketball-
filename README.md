@@ -16,6 +16,8 @@ HTML
 
 CSS
 
+Wireframe 
+
 ## Learning points 
 
 I learned how to present data from a server side API to a user. 
